@@ -1,0 +1,11 @@
+a=int(input("Enter a"))
+b=int(input("Enter b"))
+c=int(input("Enter c "))
+d=int(input("Enter d "))
+m=int(input("Enter m "))
+n=int(input("Enter n "))
+x1=(m*d - b*n)/(a*d - c*b)
+x2 =(n*a - m*c)/(a*d - c*b)
+print("x1=",x1)
+print("x2=",x2)
+
