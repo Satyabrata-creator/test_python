@@ -1,0 +1,5 @@
+u=float(input("Enter the velocity"))
+a=float(input("Enter the accelaration"))
+t=float(input("Enter the time"))
+s=u*t+0.5*a*(t**2)
+print("s =",s,"m")
